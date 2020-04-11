@@ -1,0 +1,42 @@
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.AssemblyInfoInputs.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.AssemblyInfo.cs
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.deps.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.runtimeconfig.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.runtimeconfig.dev.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.pdb
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\Shared.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderBDC.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderBDC.pdb
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\Shared.pdb
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.csprojAssemblyReference.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.RazorAssemblyInfo.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.RazorAssemblyInfo.cs
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.RazorTargetAssemblyInfo.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.csproj.CopyComplete
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.deps.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.runtimeconfig.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.runtimeconfig.dev.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderMicroservice.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\Shared.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderBDC.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\UserOrderBDC.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\bin\Debug\netcoreapp2.2\Shared.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.csprojAssemblyReference.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.RazorAssemblyInfo.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.RazorAssemblyInfo.cs
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.AssemblyInfoInputs.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.AssemblyInfo.cs
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.RazorTargetAssemblyInfo.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.csproj.CopyComplete
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderMicroservice\obj\Debug\netcoreapp2.2\UserOrderMicroservice.pdb

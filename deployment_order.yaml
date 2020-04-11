@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: order-deployment
+  labels:
+    app: order
+spec: 
+  replicas: 3
+  selector: 
+    matchLabels: 
+      app: order
+  template:
+    metadata:
+      labels:
+        app: order
+    spec:
+      containers:
+      - name: order
+        image: meghagupta01/megha_3147194_nagp_microservice_assignment2:orderservice
+        env:
+          - name: JAEGERSERVICE_PATH
+            value: "jaeger-deployment-service"
+        ports:
+        - containerPort: 80

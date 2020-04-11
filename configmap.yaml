@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: special-config
+  namespace: default
+data: 
+  userServiceEnvKey: http://user-deployment-service
+  orderServiceEnvKey: http://order-deployment-service
+  
+  

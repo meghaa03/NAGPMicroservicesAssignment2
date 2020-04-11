@@ -1,0 +1,16 @@
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\bin\Debug\netstandard2.0\Shared.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\bin\Debug\netstandard2.0\Shared.pdb
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\bin\Debug\netstandard2.0\Shared.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\bin\Debug\netstandard2.0\Shared.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\Shared\obj\Debug\netstandard2.0\Shared.pdb

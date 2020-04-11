@@ -1,0 +1,22 @@
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\UserOrderBDC.deps.json
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\UserOrderBDC.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\Shared.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\Shared.pdb
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.csprojAssemblyReference.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.AssemblyInfoInputs.cache
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.AssemblyInfo.cs
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.csproj.CopyComplete
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\UserOrderBDC.pdb
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.dll
+D:\NAGP 2020\Microservices - Assignment 1\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\UserOrderBDC.deps.json
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\UserOrderBDC.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\UserOrderBDC.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\Shared.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\bin\Debug\netstandard2.0\Shared.pdb
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.csprojAssemblyReference.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.AssemblyInfoInputs.cache
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.AssemblyInfo.cs
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.csproj.CopyComplete
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.dll
+D:\NAGP 2020\Assignment2\UserOrderAssignment\UserOrderBDC\obj\Debug\netstandard2.0\UserOrderBDC.pdb
